@@ -12,20 +12,20 @@ This is a Python code implementation of a movie recommendation system. The syste
 - It calculates the similarity between movies using cosine similarity.
 - Finally, it suggests similar movies based on user input.
 
-##Data
+## Data
 The code reads movie data from a CSV file named 'movies.csv'. The data includes various attributes such as genres, keywords, taglines, cast, and director. Ensure that your data is in the same format and adjust the file path accordingly.
 
-##Usage
+## Usage
 After running the script, you will be prompted to enter your favorite movie.
 The system will find the closest match in the dataset and recommend movies based on similarity.
 Results
 The code will display a list of recommended movies based on the similarity score to your input.
 
-##Credits
+## Credits
 This code uses the following Python libraries:
-numpy
-pandas
-difflib
-matplotlib
-scikit-learn
-pandas-profiling
+- numpy
+- pandas
+- difflib
+- matplotlib
+- scikit-learn
+- pandas-profiling

@@ -1,5 +1,3 @@
-# Movie-Prediction-System
-Predicts top 10 movies based on user’s recommendation and choices.
 # Movie Recommendation System
 
 This is a Python code implementation of a movie recommendation system. The system uses the concept of TF-IDF (Term Frequency-Inverse Document Frequency) and cosine similarity to recommend movies to users based on their input.
